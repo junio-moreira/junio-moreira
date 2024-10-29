@@ -1,11 +1,11 @@
-## Hello, World! 🌍  
+Hello, World! 🌍  
 Hi, I'm Júnio Moreira! 👋
 
 Welcome to my GitHub profile! I'm glad you're here.
 
 ---
 
-## Languages and Frameworks
+Languages and Frameworks
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm glad you're here.
   </a>
 </p>
 
-## Tools and Environments
+Tools and Environments
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm glad you're here.
 </p>
 
 
-## My Skills
+My Skills
 
 <!---
 Junio-Moreira/Junio-Moreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
