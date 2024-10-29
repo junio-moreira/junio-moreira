@@ -1,11 +1,19 @@
-Hello, World! 🌍  
-Hi, I'm Júnio Moreira! 👋
-
+# Hello, World! 🌍  
+# Hi, I'm Júnio Moreira! 👋
 Welcome to my GitHub profile! I'm glad you're here.
-
----
+--
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
 
 Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
+
+## Estatísticas
+<details>
+  <summary>Clique para expandir</summary>
+
+  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default)
+  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact)
+</details>
 
 Languages and Frameworks
 
