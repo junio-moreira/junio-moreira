@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm glad you're here.</sup>
 
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
 
-Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
+<sup>Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma. </sup>
 
-## Estatísticas
+Statistics
 <details>
-  <summary>Clique para expandir</summary>
+  <summary>Click to expand</summary>
 
   ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default)
   
