@@ -1,5 +1,6 @@
-# Hello, World! 🌍  
 # Hi, I'm Júnio Moreira! 👋
+
+Hello, World! 🌍  
 Welcome to my GitHub profile! I'm glad you're here.
 --
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
