@@ -7,13 +7,22 @@ Welcome to my GitHub profile! I'm glad you're here.</sup>
 
 <sup>Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma. </sup>
 
-Statistics
+### Statistics
 <details>
   <summary>Click to expand</summary>
 
   ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default)
   
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact)
+</details>
+
+### Statistics
+<details>
+  <summary><span style="font-size: 12px;">Click to expand</span></summary>
+  
+  <!-- Conteúdo da seção -->
+  Aqui você pode adicionar estatísticas sobre seu perfil, como linguagens mais usadas, número de contribuições, entre outras.
+
 </details>
 
 Languages and Frameworks
