@@ -11,7 +11,7 @@ Statistics
 <details>
   <summary>Click to expand</summary>
 
-  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=default)
+  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=transparent)
   
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact)
 
