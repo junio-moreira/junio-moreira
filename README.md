@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm glad you're here.</sup>
 
 Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
 
-### Statistics
+Statistics
 <details>
   <summary>Click to expand</summary>
 
