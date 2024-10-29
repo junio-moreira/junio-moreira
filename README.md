@@ -1,8 +1,8 @@
 # Hi, I'm Júnio Moreira! 👋
 
-Hello, World! 🌍  
-Welcome to my GitHub profile! I'm glad you're here.
---
+<sub>Hello, World! 🌍  
+Welcome to my GitHub profile! I'm glad you're here.</sub>
+
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
 
 Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
