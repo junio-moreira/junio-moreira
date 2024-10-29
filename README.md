@@ -14,6 +14,18 @@ Statistics
   ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=default)
   
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Junio-Moreira&theme=transparent)](https://git.io/streak-stats)
+
+<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
+
+![Moe Counter](https://count.getloli.com/get/@Junio-Moreira)
+
+![](https://hit.yhype.me/github/profile?user_id=26019675)
+
+  
 </details>
 
 Languages and Frameworks
