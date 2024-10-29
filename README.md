@@ -39,8 +39,8 @@ My Skills
 Contribution Calendar
 
 ### Snake Game
-![GitHub Snake Light](https://github.com/Junio-Moreira/seu-usuario/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Junio-Moreira/seu-usuario/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
