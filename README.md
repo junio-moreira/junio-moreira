@@ -3,7 +3,7 @@ Hi, I'm Júnio Moreira! 👋
 
 Welcome to my GitHub profile! I'm glad you're here.
 
-<hr style="border:0.05px solid #ccc;" />
+---
 
 Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
 
