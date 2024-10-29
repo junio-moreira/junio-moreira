@@ -5,15 +5,15 @@ I'm Júnio Moreira. You can get more information about me from the links below.
 
 Languages and Frameworks
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,python,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,python,java,nodejs,mysql" />
   </a>
 </p>
 
 Tools and Environments
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,docker,matlab,firebase" />
   </a>
