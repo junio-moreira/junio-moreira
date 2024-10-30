@@ -15,9 +15,7 @@ Statistics
 
   ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=transparent) 
 
-  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Junio-Moreira&theme=transparent)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Junio-Moreira&theme=transparent)](https://git.io/streak-stats)
   
 </details>
 
@@ -44,10 +42,11 @@ My Skills
 Contribution Calendar
 
 ### Snake Game
-![GitHub Snake Light](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 Junio-Moreira/Junio-Moreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,4 +58,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Snake Light](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Junio-Moreira/Junio-Moreira/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 --->
