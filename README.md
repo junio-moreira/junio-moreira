@@ -2,12 +2,12 @@
 
 ```kotlin
 fun main() {
-    println("Code by Júnio Moreira!")
-    println("Welcome to the Password Generator!")
+    println("Hello, World! 🌍 ")
+    println("Welcome to my GitHub profile! I'm glad you're here.")
 } 
 ```
-<sup>Hello, World! 🌍  
-Welcome to my GitHub profile! I'm glad you're here.</sup>
+<!--- <sup>Hello, World! 🌍  
+Welcome to my GitHub profile! I'm glad you're here.</sup> -->
 
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
 
