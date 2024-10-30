@@ -8,14 +8,6 @@ begin
 end
 ```
 
-<code>
-<span style="color: blue; font-weight: bold;">algorithm</span> "GitHubProfile"<br>
-<span style="color: blue; font-weight: bold;">begin</span><br>
-&nbsp;&nbsp;&nbsp;write("Hello, World! 🌍\n")<br>
-&nbsp;&nbsp;&nbsp;write("Welcome to my GitHub profile! I'm glad you're here.")<br>
-<span style="color: blue; font-weight: bold;">end</span>
-</code>
-
 <!---```kotlin
 fun main() {
     println("Hello, World! 🌍 ")
@@ -54,6 +46,7 @@ My research interests include:
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 Languages and Frameworks
