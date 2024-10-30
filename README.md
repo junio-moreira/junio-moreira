@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm glad you're here.</sup>
 
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
 
-Professor @IFTM. Ph.D. in Computer Networks. Focused on Mobile Development | Android | iOS | Cross-platform.
+Professor @IFTM | Ph.D. in Computer Networks | Focused on Mobile Development Android | iOS | Cross-platform.
 
 
 <details>
