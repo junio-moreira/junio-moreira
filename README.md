@@ -9,7 +9,7 @@ Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobil
 
 
 <details>
-<summary>Skills </summary>
+<summary>Skills 🚀</summary>
 
 _Here is a list of numerous technologies I have come across, but it does not imply any level of knowledge, proficiency, or availability._
 
