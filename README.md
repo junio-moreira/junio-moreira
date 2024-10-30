@@ -4,8 +4,8 @@
 fun main() {
     println("Code by Júnio Moreira!")
     println("Welcome to the Password Generator!")
-} ```
-
+} 
+```
 <sup>Hello, World! 🌍  
 Welcome to my GitHub profile! I'm glad you're here.</sup>
 
