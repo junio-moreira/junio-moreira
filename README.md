@@ -1,11 +1,18 @@
 # Hi, I'm Júnio Moreira! 👋
 
-```kotlin
+```plaintext
+algoritmo "PerfilGitHub"
+inicio
+   escreva("Hello, World! 🌍\n")
+   escreva("Welcome to my GitHub profile! I'm glad you're here.")
+fimalgoritmo
+```
+<!---```kotlin
 fun main() {
     println("Hello, World! 🌍 ")
     println("Welcome to my GitHub profile! I'm glad you're here.")
-} 
-```
+} -->
+
 <!--- <sup>Hello, World! 🌍  
 Welcome to my GitHub profile! I'm glad you're here.</sup> -->
 
