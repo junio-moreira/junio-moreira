@@ -49,7 +49,7 @@ My research interests include:
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>  
 </details>
 
-Languages and Frameworks
+Languages and Frameworks:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@ Languages and Frameworks
   </a>
 </p>
 
-Tools and Environments
+Tools and Environments:
 
 <p align="left">
   <a href="https://skillicons.dev">
