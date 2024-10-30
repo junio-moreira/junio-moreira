@@ -61,7 +61,7 @@ Tools and Environments:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,docker,matlab,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,firebase,mysql,docker,matlab" />
   </a>
 </p>
 
