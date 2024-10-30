@@ -11,9 +11,9 @@ Statistics
 <details>
   <summary>Click to expand</summary>
 
-  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=transparent)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&theme=transparent)
+
+  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=transparent) 
 
   <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
