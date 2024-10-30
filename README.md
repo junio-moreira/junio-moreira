@@ -7,16 +7,11 @@ Welcome to my GitHub profile! I'm glad you're here.</sup>
 
 Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobile | Android | iOS | Multiplataforma.
 
-Statistics
 <details>
-  <summary>Click to expand</summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&theme=transparent)
-
-  ![Suas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&show_icons=true&theme=transparent) 
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=Junio-Moreira&theme=transparent)](https://git.io/streak-stats)
+  <summary>Statistics ⚡</summary>
   
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 Languages and Frameworks
