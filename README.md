@@ -17,7 +17,7 @@ fun main() {
 <!--- <sup>Hello, World! 🌍  
 Welcome to my GitHub profile! I'm glad you're here.</sup> -->
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Junio-Moreira&color=blue)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=junio-moreira&color=blue)
 
 Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development 📱 | Android 🤖 | iOS 🍏 | Cross-platform 🤖🍏.
 <!--- Professor @IFTM | Ph.D. in Computer Networks | Focused on Mobile Development Android | iOS | Cross-platform. -->
@@ -45,8 +45,8 @@ My research interests include:
 <details>
   <summary>Statistics ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=junio-moreira&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junio-moreira&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>  
 </details>
 
 Languages and Frameworks:
@@ -68,7 +68,7 @@ Tools and Environments:
 Contribution Calendar
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junio-moreira/junio-moreira/refs/heads/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junio-moreira/junio-moreira/refs/heads/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junio-moreira/junio-moreira/refs/heads/snk/github-contribution-grid-snake.svg">
 </picture>
