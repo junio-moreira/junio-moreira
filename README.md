@@ -11,9 +11,19 @@ Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobil
 <details>
 <summary>Skills 🚀</summary>
 
-_Here is a list of various technologies I have encountered; however, this does not imply any specific level of knowledge, proficiency, or availability.
+_Here is a list of various technologies I have encountered; however, this does not imply any specific level of knowledge, proficiency, or availability._
 
-I am an EBTT Professor at the Federal Institute of Triângulo Mineiro in Patrocínio (IFTM-Patrocínio) and a researcher at the Computer Network Laboratory. I earned my B.Sc. in Information Systems from the Pontifical Catholic University of Minas Gerais in 2006, my M.Sc. in Systems Engineering from the Federal University of Lavras in 2013, and my Ph.D. from the Institute of Engineering at the Federal University of Uberlândia (UFU) in 2021. My research interests include 5G networks, network security, and mobile development, particularly in Android, iOS, and cross-platform development._
+I am an **EBTT Professor** at the **Federal Institute of Triângulo Mineiro** in Patrocínio (IFTM-Patrocínio) and a researcher at the **Computer Network Laboratory**. 
+
+I earned my **B.Sc.** in Information Systems from the **Pontifical Catholic University of Minas Gerais** in **2006**, my **M.Sc.** in Systems Engineering from the **Federal University of Lavras** in **2013**, and my **Ph.D.** from the **Institute of Engineering at the Federal University of Uberlândia (UFU)** in **2021**.
+
+My research interests include:
+- **5G networks**
+- **Network security**
+- **Mobile development**, particularly in:
+  - Android
+  - iOS
+  - Cross-platform development
 
 </details>
 
