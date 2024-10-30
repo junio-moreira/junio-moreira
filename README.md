@@ -7,6 +7,15 @@ begin
    write("Welcome to my GitHub profile! I'm glad you're here.")
 end
 ```
+
+<code>
+<span style="color: blue; font-weight: bold;">algorithm</span> "GitHubProfile"<br>
+<span style="color: blue; font-weight: bold;">begin</span><br>
+&nbsp;&nbsp;&nbsp;write("Hello, World! 🌍\n")<br>
+&nbsp;&nbsp;&nbsp;write("Welcome to my GitHub profile! I'm glad you're here.")<br>
+<span style="color: blue; font-weight: bold;">end</span>
+</code>
+
 <!---```kotlin
 fun main() {
     println("Hello, World! 🌍 ")
