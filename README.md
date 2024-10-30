@@ -53,7 +53,7 @@ Languages and Frameworks:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,python,java,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,react,flutter,python,java,nodejs" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ Tools and Environments:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,docker,matlab,firebase" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,docker,matlab,mysql,firebase" />
   </a>
 </p>
 
