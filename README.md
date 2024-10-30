@@ -13,8 +13,6 @@ Professor @IFTM. Ph.D. em Redes de Computadores. Focado em Desenvolvimento Mobil
 
 _Here is a list of numerous technologies I have come across, but it does not imply any level of knowledge, proficiency, or availability._
 
-[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,apple,arch,arduino,atom,au,autocad,aws,azure,bash,bitbucket,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,debian,discord,bots,django,docker,dotnet,fastapi,fediverse,figma,flask,gcp,git,github,githubactions,gitlab,gmail,go,graphql,heroku,html,idea,ai,instagram,ipfs,java,js,jenkins,jquery,kali,kubernetes,latex,linkedin,linux,lua,md,mastodon,mint,mongodb,neovim,netlify,nginx,nodejs,notion,npm,obsidian,ps,php,planetscale,pnpm,powershell,pr,pycharm,py,pytorch,redhat,redis,regex,replit,sqlite,stackoverflow,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vscodium,vue,webpack,windows,wordpress,workers&perline=15)](https://skillicons.dev)
-
 </details>
 
 <details>
