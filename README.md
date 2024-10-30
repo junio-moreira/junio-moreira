@@ -1,6 +1,6 @@
 # Hi, I'm Júnio Moreira! 👋
 
-```plaintext
+```text
 algoritmo "PerfilGitHub"
 inicio
    escreva("Hello, World! 🌍\n")
