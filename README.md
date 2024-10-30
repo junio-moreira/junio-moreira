@@ -43,8 +43,8 @@ My research interests include:
 <details>
   <summary>Statistics ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Junio-Moreira&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Moreira&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 </details>
 
 Languages and Frameworks
