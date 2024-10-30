@@ -35,13 +35,8 @@ Tools and Environments
   </a>
 </p>
 
-
-My Skills
-
-
 Contribution Calendar
 
-### Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junio-Moreira/Junio-Moreira/refs/heads/snk/github-contribution-grid-snake.svg">
