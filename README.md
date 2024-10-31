@@ -26,8 +26,12 @@ Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development �
 <details>
   <summary>Skills 🚀</summary>
 
-  [![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/1358161771071451)](http://lattes.cnpq.br/7059390537752738) 
+  <br> <!-- Adiciona uma linha em branco para espaçamento -->
+  
+  [![Lattes](https://img.shields.io/badge/-CNPq_Lattes-808080?style=flat-square&link=http://lattes.cnpq.br/1358161771071451)](http://lattes.cnpq.br/7059390537752738) 
 
+  <br> <!-- Adiciona uma linha em branco para espaçamento -->
+  
   **👨‍🏫 EBTT Professor** at the Federal Institute of Triângulo Mineiro, Campus Patrocínio  
   **🔬 Researcher** in Computer Networks at IFTM’s Computer Network Laboratory  
 
