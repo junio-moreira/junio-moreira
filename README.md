@@ -24,21 +24,28 @@ Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development �
 
 
 <details>
-<summary>Skills 🚀</summary>
+  <summary>Skills 🚀</summary>
 
-_Here is a list of various technologies I have encountered; however, this does not imply any specific level of knowledge, proficiency, or availability._
+  **👨‍🏫 EBTT Professor** at the Federal Institute of Triângulo Mineiro, Campus Patrocínio  
+  **🔬 Researcher** in Computer Networks at IFTM’s Computer Network Laboratory  
 
-I am an **EBTT Professor** at the **Federal Institute of Triângulo Mineiro** in Patrocínio (IFTM-Patrocínio) and a researcher at the **Computer Network Laboratory**. 
+  **🎓 Academic Background:**  
+  - **B.Sc.** in Information Systems, Pontifical Catholic University of Minas Gerais, 2006  
+  - **M.Sc.** in Systems Engineering, Federal University of Lavras, 2013  
+  - **Ph.D.** in Engineering, Federal University of Uberlândia, 2021  
 
-I earned my **B.Sc.** in Information Systems from the **Pontifical Catholic University of Minas Gerais** in **2006**, my **M.Sc.** in Systems Engineering from the **Federal University of Lavras** in **2013**, and my **Ph.D.** from the **Institute of Engineering at the Federal University of Uberlândia (UFU)** in **2021**.
+  ---
 
-My research interests include:
-- **5G networks**
-- **Network security**
-- **Mobile development**, particularly in:
-  - Android
-  - iOS
-  - Cross-platform development
+  ### 🔍 Research Interests and Technical Skills  
+  I focus on advancing technologies in:
+  - **5G Networks**: Design, simulation, and real-world deployment.
+  - **Network Security**: Developing strategies for secure and efficient networking environments.
+  - **Mobile Development**:
+    - **Android**: Experienced in native and hybrid applications.
+    - **iOS**: Proficient in delivering intuitive, user-centered designs.
+    - **Cross-Platform**: Skilled in leveraging frameworks for unified app experiences.
+
+  > **Disclaimer:** This list reflects technologies I have encountered and worked with, though it doesn’t imply specific levels of proficiency or availability.
 
 </details>
 
