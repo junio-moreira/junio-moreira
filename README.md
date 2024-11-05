@@ -42,7 +42,7 @@ Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development �
   **🎓 Academic Background:**  
   - **B.Sc.** in Information Systems, Pontifical Catholic University of Minas Gerais, 2006  
   - **M.Sc.** in Systems Engineering, Federal University of Lavras, 2013  
-  - **Ph.D.** in Engineering, Federal University of Uberlândia, 2021  
+  - **Ph.D.** in Electrical Engineering , Federal University of Uberlândia, 2021  
 
   ---
 
