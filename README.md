@@ -51,8 +51,8 @@ Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development ðŸ
   - **5G Networks**: Design, simulation, and real-world deployment.
   - **Network Security**: Developing strategies for secure and efficient networking environments.
   - **Mobile Development**:
-    - **Android**: Experienced in native and hybrid applications.
-    - **iOS**: Proficient in delivering intuitive, user-centered designs.
+    - **Android**: Focused in native and hybrid applications.
+    - **iOS**: Specializing in intuitive, user-centered experience design.
     - **Cross-Platform**: Skilled in leveraging frameworks for unified app experiences.
 
   > **Disclaimer:** This list reflects technologies I have encountered and worked with, though it doesnâ€™t imply specific levels of proficiency or availability.
