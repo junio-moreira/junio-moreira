@@ -37,7 +37,7 @@ Professor @ IFTM | Ph.D. in Computer Networks | Focused on Mobile Development �
    -->
   
   **👨‍🏫 EBTT Professor** at the Federal Institute of Triângulo Mineiro, Campus Patrocínio.  
-  **🔬 Researcher** in Computer Networks at IFTM’s Computer Network Laboratory.  
+  **🔬 Researcher** in Computer Networks at UFU’s Computer Network Laboratory.  
 
   **🎓 Academic Background:**  
   - **B.Sc.** in Information Systems, Pontifical Catholic University of Minas Gerais, 2006.  
